@@ -1,66 +1,66 @@
 {
-    “警告文本“:"放下手机,看会电视",
-    “蜘蛛”:“https://files . zoho public . com . cn/public/work drive-public/download/uyv0t 678 c 488189 af 47 bb 91 DC 108484d 17431；md5364 c0f 012 e 73 a 8801 a 69900 fc 25 ae9 c 1“,
-    “壁纸”:“https://www . xitongku . com/images/win 11 . jpg“,
-    “生命”:[
+    "warningText":"放下手机，看会电视吧！",
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
+    "wallpaper":"https://www.xitongku.com/images/win11.jpg",
+    "lives":[
         {
-            "名称":“直播”,
-            "类型":0,
-            "网址":“https://raw . githubusercontent . com/yensetuhou 19/live/main/live . txt“,
-            “播放器类型“:1,
-            “电子节目指南“:"http://epg.112114.xyz/吗？ch={name}&date={date}“,
-            "标志":"https://epg.112114.xyz/logo/{name}。巴布亚新几内亚"
+            "name":"live",
+            "type":0,
+            "url":"https://gitee.com/yensetuhou/123/raw/master/ipv6.txt",
+            "playerType":1,
+            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
         }
     ],
-    “驱动器“:[
+    "drives":[
         {
-            "名称":"嗯哼?",
-            "服务器":“https://alist.891218.xyz“,
-            "类型":“名单”
+            "name":"嗯哼？",
+            "server":"https://alist.891218.xyz",
+            "type":"alist"
         }
     ],
-    “站点”:[
+    "sites":[
         {
-            "钥匙":"关注公众号“日元的PSvita了解更新动态"",
-            "名称":"电视直播",
-            "类型":3,
-            " api ":"./lib/drpy2.min.js,
-            "分机":"./lib/濂借叮缃�.js "
+            "key":"电视直播",
+            "name":"请关注公众号“Yen的PSvita”！了解更新动态",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./lib/濂借叮缃�.js"
         },
         {
-            "钥匙":"腾讯",
-            "名称":"腾讯",
-            "类型":3,
-            " api ":“https://gitee . com/yensetuhou/123/raw/master/lib/drpy 2 . min . js“,
-            "分机":“https://gitee . com/yensetuhou/123/raw/master/js/Tencent . js“
+            "key":"腾讯",
+            "name":"腾讯",
+            "type":3,
+            "api":"https://gitee.com/yensetuhou/123/raw/master/lib/drpy2.min.js",
+            "ext":"https://gitee.com/yensetuhou/123/raw/master/js/tencent.js"
         },
         {
-            "钥匙":"优酷",
-            "名称":"优酷",
-            "类型":3,
-            " api ":“https://gitee . com/yensetuhou/123/raw/master/lib/drpy 2 . min . js“,
-            "分机":“https://gitee . com/yensetuhou/123/raw/master/js/youku . js“
+            "key":"优酷",
+            "name":"优酷",
+            "type":3,
+            "api":"https://gitee.com/yensetuhou/123/raw/master/lib/drpy2.min.js",
+            "ext":"https://gitee.com/yensetuhou/123/raw/master/js/youku.js"
         },
         {
-            "钥匙":"搜狗",
-            "名称":"搜狗",
-            "类型":3,
-            " api ":“https://gitee . com/yensetuhou/123/raw/master/lib/drpy 2 . min . js“,
-            "分机":“https://gitee . com/yensetuhou/123/raw/master/js/sogou . js“
+            "key":"搜狗",
+            "name":"搜狗",
+            "type":3,
+            "api":"https://gitee.com/yensetuhou/123/raw/master/lib/drpy2.min.js",
+            "ext":"https://gitee.com/yensetuhou/123/raw/master/js/sogou.js"
         },
         {
-            "钥匙":"芒果",
-            "名称":"芒果",
-            "类型":3,
-            " api ":“https://gitee . comyensetuhou/123/raw/master/lib/drpy 2 . min . js“,
-            "分机":“https://gitee . com/yensetuhou/123/raw/master/js/mgtv . js“
+            "key":"芒果",
+            "name":"芒果",
+            "type":3,
+            "api":"https://gitee.com/yensetuhou/123/raw/master/lib/drpy2.min.js",
+            "ext":"https://gitee.com/yensetuhou/123/raw/master/js/mgtv.js"
         },
         {
-            "钥匙":"爱奇艺",
-            "名称":"爱奇艺",
-            "类型":3,
-            " api ":“https://gitee . com/yensetuhou/123/raw/master/lib/drpy 2 . min . js“,
-            "分机":“https://gitee . com/yensetuhou/123/raw/master/js/爱奇艺。js“
+            "key":"爱奇艺",
+            "name":"爱奇艺",
+            "type":3,
+            "api":"https://gitee.com/yensetuhou/123/raw/master/lib/drpy2.min.js",
+            "ext":"https://gitee.com/yensetuhou/123/raw/master/js/iqiyi.js"
         }
     ]
 }
