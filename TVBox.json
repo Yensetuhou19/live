@@ -6,7 +6,7 @@
         {
             "name":"live",
             "type":0,
-            "url":"https://gitee.com/yensetuhou/123/raw/master/ipv6.txt",
+            "url":"https://raw.githubusercontent.com/Yensetuhou19/live/main/live.txt",
             "playerType":1,
             "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
