@@ -1,7 +1,5 @@
 {
     "warningText":"放下手机，看会电视吧",
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
-    "wallpaper":"https://www.xitongku.com/images/win11.jpg",
     "lives":[
         {
             "name":"live",
@@ -14,7 +12,7 @@
     ],
 "sites":[
 
-{"key": "LABIXX","name": " 📺︎电视直播","type": 3,"api": "csp_LABIXX","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "YenYukihou","name": " 📺︎关注微信公众号"Yen的PSvita"了解最新动态,"type": 3,"api": "csp_YenYukihou","searchable": 1,"quickSearch": 1,"filterable": 1},
    {
       "key": "csp_非凡资源",
       "name": "📺︎影视合集",
