@@ -12,7 +12,7 @@
     ],
 "sites":[
 
-{"key": "YenYukihou","name": " 📺︎关注微信公众号"Yen的PSvita"了解最新动态,"type": 3,"api": "csp_YenYukihou","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "YenYukihou","name": " 📺︎关注微信公众号[Yen的PSvita]了解最新动态,"type": 3,"api": "csp_YenYukihou","searchable": 1,"quickSearch": 1,"filterable": 1},
    {
       "key": "csp_非凡资源",
       "name": "📺︎影视合集",
